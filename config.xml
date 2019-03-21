@@ -2,8 +2,8 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id= "com.phonegap.app1"
-vercion = "1.0.0">
+id ="com.phonegap.app1"
+version = "1.0.0">
 
 <name>app1-2019 Datos del dispositivo </name>
 
@@ -11,7 +11,7 @@ vercion = "1.0.0">
 Aplicaciones que nos muestra la información referente al Dispositivo Movil
 </description>
 
-<author href = "https://build.phonegap.com" emal = "aquiEscribeTuCorreo@ gmail.com">
+<author href = "https://build.phonegap.com" email = "jonicolotl@gmail.com">
 Jonathan Joshua Colotl Cortes
 </author>
 
