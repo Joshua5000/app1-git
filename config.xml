@@ -10,8 +10,8 @@
 	Aplicacion que nos muestra informacion referente al Dispositivo Movil
 	</description>
 	
-	<author href="https://build.phonegap.com" email="jonicolotl@gmail.com">
-	Jonathan Colotl Cortez
+	<author href="https://build.phonegap.com" email="leoquinbar@hotmail.com">
+	Leonardo Quintero Barron
 	</author>
 	
 	<preference name="orientation"	value="default" />
